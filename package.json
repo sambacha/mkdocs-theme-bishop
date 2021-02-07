@@ -1,0 +1,25 @@
+{
+  "name": "mkdocs-theme-bishop",
+  "version": "0.1.0",
+  "description": "mkdocs theme",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manifoldfinance/mkdocs-theme-bishop.git"
+  },
+  "keywords": [
+    "mkdocs",
+    "ethereum",
+    "documentation",
+    "theme"
+  ],
+  "author": "SEE CONTRIBUTORS",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/manifoldfinance/mkdocs-theme-bishop/issues"
+  },
+  "homepage": "https://github.com/manifoldfinance/mkdocs-theme-bishop#readme"
+}

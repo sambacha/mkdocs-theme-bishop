@@ -1,0 +1,4 @@
+site_name: bishop - MkDocs Theme
+theme_dir: bishop
+
+repo_url: https://github.com/manifoldfinance/mkdocs-theme-bishop
